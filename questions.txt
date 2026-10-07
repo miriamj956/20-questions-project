@@ -1,0 +1,56 @@
+if mammal
+    if can be kept as pet
+        if loud
+            "it is a dog"
+        else 
+            if does it have long tail
+                it is a cat
+            else bunny
+    else 
+        if small
+            if does it eat other animals
+                "it is a ferret
+            else
+                squirrel
+        else
+            if is it orange  
+                it is a tiger
+            else
+                if it is yellow
+                    it is a lion
+                else zebra
+else
+    if it is extinct
+        if is it a reptile
+            it is a dinasour
+        else
+            if it is bird
+                bird
+            else
+                wooly mammoth
+    else
+        if can breath underwater
+            if it is small
+                fish
+            else
+                if it is biggest in the ocean
+                    whale
+                else
+                    if it has 2 rows of sharp teeth
+                        shark
+                    else
+                        dolphin
+        else
+            if has for legs
+                if slow
+                    turtle
+                else
+                    if jumps
+                        frog
+                    else
+                        if it is big
+                            croccodile/aligator
+                        else
+                            lizard
+            else
+                ant
